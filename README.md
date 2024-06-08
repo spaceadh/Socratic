@@ -77,22 +77,5 @@ python3 Socratic.py -option <plot or equation>
 streamlit run SocraticLit.py
 ```
 
-## Cite Us :pushpin:
-
 ```
-{
-    author = {Alvin, Wachira},
-    journal = {https://github.com/spaceadh/Socratic},
-    month = {06},
-    title = {{Socratic}},
-    year = {2024}
-}
-```
-
-###### Made with ❤️ and 🦙 by Alvin Wachira
-
-## References 🔱
- 
--  Ivan Grishchenko and Valentin Bazarevsky, Research Engineers, Google Research. [Mediapipe by Google](https://github.com/google/mediapipe)
-- [Socratic by Google](https://socratic.org/)
-- [Microsoft Math Solver](https://math.microsoft.com/en)
+Made with ❤️ and 🦙 by Alvin Wachira
